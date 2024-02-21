@@ -1,4 +1,4 @@
 # demorepo
 this is first repo
-<b/>
-auther -shashit
+<b\>
+auther - Shashit lakra
